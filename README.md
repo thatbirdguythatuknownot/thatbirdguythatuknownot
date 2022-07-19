@@ -1,4 +1,5 @@
 Hello. I'm... let's just say my nickname, Crowthebird. I work on projects when I am bored.
+I do some esoteric python, and know a bit about CPython internals.
 
 I contributed 3 updates to CPython that I consider major:<br/>
 [Supporting building CPython with VS 2022](https://github.com/python/cpython/pull/29577)<br/>
